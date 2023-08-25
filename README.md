@@ -1,1 +1,0 @@
-# mysql2-node-tutorial
